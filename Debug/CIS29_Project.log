@@ -1,0 +1,53 @@
+﻿  Game.cpp
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\PlanetDefenders.h(18,54): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Player.h(34,14): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Player.h(41,41): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Player.h(42,47): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\ToolBar.hpp(82,67): warning C4244: 'argument': conversion from 'const unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\ToolBar.hpp(82,56): warning C4244: 'argument': conversion from 'const unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(159,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(176,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(194,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(196,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(215,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(230,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(243,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(258,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(274,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(284,67): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(296,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(373,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(377,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(378,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(390,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(390,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(394,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(396,35): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(467,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(420,35): warning C4101: 'exception': unreferenced local variable
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(497,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(545,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(636,59): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(692,55): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(695,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(699,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(712,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(577,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rio\Desktop\CIS29_Group_Project-master\src\Game.cpp(644): message : see reference to function template instantiation 'void Game::drawGameObjectArray<Projectile>(std::vector<Projectile *,std::allocator<Projectile *>> &)' being compiled
+  CIS29_Project.vcxproj -> C:\Users\Rio\Desktop\CIS29_Group_Project-master\Debug\CIS29_Project.exe
